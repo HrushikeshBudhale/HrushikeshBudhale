@@ -48,6 +48,6 @@ In the past, I have worked on multiple robotics related projects, including auto
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrushikeshbudhale&show_icons=true&locale=en&layout=compact" alt="hrushikeshbudhale" width="40%" /></p>
 <!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikeshbudhale&" alt="hrushikeshbudhale" width="50%"/></p>
  -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hrushikeshbudhale&show_icons=true&locale=en" alt="hrushikeshbudhale" width="45%"/>
-<!-- <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrushikeshbudhale&title=MultiLanguage,Commits" alt="hrushikeshbudhale" /></a> </p>
- -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hrushikeshbudhale&show_icons=true&locale=en" alt="hrushikeshbudhale" width="50%"/>
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=hrushikeshbudhale&title=MultiLanguage,Commits" alt="hrushikeshbudhale" width="50%" />
+
