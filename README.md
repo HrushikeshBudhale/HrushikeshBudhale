@@ -18,7 +18,7 @@ In the past, I have worked on multiple robotics related projects, including auto
 
 - 💬 You can ask me about **Controls, Perception, Planning or anything related to Robotics**
 
-- 📄 Know about my experiences [link](link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WarhPOcKQsGapvQi8oLi2xkOlT7GCLov/view?usp=sharing)
 
 - ⚡ I enjoy having technical debates and discussions 
 
