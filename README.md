@@ -8,9 +8,7 @@ I'm a robotics engineer who is passionate about working on cool projects and hel
 I enjoy working on sensor fusion and perception related applications. 
 In the past, I have worked on multiple robotics related projects, including autonomous arial and ground vehicles. 
 </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrushikeshbudhale&title=MultiLanguage,Commits" alt="hrushikeshbudhale" /></a> </p>
-
+---
 - 🔭 I’m currently working on [Decluttering Domestic Robot](https://github.com/HrushikeshBudhale/decluttering_domestic_robot)
 
 - 🌱 Pursuing **Master's degree in robotics**
@@ -26,8 +24,8 @@ In the past, I have worked on multiple robotics related projects, including auto
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hrushikesh-budhale-3213615a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrushikesh-budhale-3213615a" height="20" width="40" /></a>
-<a href="mailto:hruhnb@gmail.com"><img  align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" width="32" height="32"></a>
-<a href="https://github.com/HrushikeshBudhale"><img  align="center" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32" height="32"></a> 
+<a href="mailto:hruhnb@gmail.com"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" width="32" height="32"></a>
+<a href="https://github.com/HrushikeshBudhale"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32" height="32"></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,7 +46,5 @@ In the past, I have worked on multiple robotics related projects, including auto
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrushikeshbudhale&show_icons=true&locale=en&layout=compact" alt="hrushikeshbudhale" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrushikeshbudhale&show_icons=true&locale=en" alt="hrushikeshbudhale" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikeshbudhale&" alt="hrushikeshbudhale" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=hrushikeshbudhale&show_icons=true&locale=en" alt="hrushikeshbudhale" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrushikeshbudhale&title=MultiLanguage,Commits" alt="hrushikeshbudhale" /></a> </p>
