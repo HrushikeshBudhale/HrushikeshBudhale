@@ -1,5 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=hrushikeshbudhale&label=Profile%20views&color=0e75b6&style=flat" alt="hrushikeshbudhale" /> </p>
-
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Hrushikesh</h1>
 <h3 align="center">Robotics engineer</h3>
 
