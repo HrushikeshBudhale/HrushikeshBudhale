@@ -12,7 +12,7 @@ In the past, I have worked on multiple robotics related projects, including auto
 
 - 🌱 Pursuing **Master's degree in robotics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HrushikeshBudhale/](https://github.com/HrushikeshBudhale/)
+- 👨‍💻 Checkout all of my projects are available on my webpage [hrushikeshbudhale.github.io](hrushikeshbudhale.github.io)
 
 - 💬 You can ask me about **Controls, Perception, Planning or anything related to Robotics**
 
