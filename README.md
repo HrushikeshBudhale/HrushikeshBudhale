@@ -1,10 +1,10 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Hrushikesh</h1>
+<h1 align="center">Hi, I'm Hrushikesh</h1>
 <h3 align="center">Robotics engineer</h3>
 
 <p align="justify">
-I'm a robotics engineer who is passionate about working on cool projects and help others solving challenging problems. 
-I enjoy working on sensor fusion and perception related applications. 
-In the past, I have worked on multiple robotics related projects, including autonomous arial and ground vehicles. 
+I am passionate about working on challenging projects and contributing to solve real world problems. 
+I enjoy working on control, sensor fusion and perception related applications. 
+In the past, I have worked on numerous interesting projects, including autonomous arial and ground vehicles. 
 </p>
 
 
@@ -18,7 +18,7 @@ In the past, I have worked on multiple robotics related projects, including auto
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WarhPOcKQsGapvQi8oLi2xkOlT7GCLov/view?usp=sharing)
 
-- ⚡ I enjoy having technical debates and discussions 
+- ⚡ I enjoy having deep technical discussions and cycling 🚴‍♂️.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
