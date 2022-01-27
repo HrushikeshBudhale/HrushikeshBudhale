@@ -4,11 +4,11 @@
 <p align="justify">
 I am passionate about working on challenging projects and contributing to solve real world problems. 
 I enjoy working on control, sensor fusion and perception related applications. 
-In the past, I have worked as a robotics engineer for drone automation company along with numerous interesting projects on ground vehicles.
+In the past, I have worked as a robotics engineer for drone automation company as well as a software developer for projects on ground vehicles.
 </p>
 
 
-- 🔭 I’m currently working on [Decluttering Domestic Robot](https://github.com/HrushikeshBudhale/decluttering_domestic_robot)
+- 🔭 I’m currently working as a developer for **Autonomous Delivery Robots**.
 
 - 🌱 Pursuing **Master's degree in robotics**
 
