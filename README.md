@@ -4,7 +4,7 @@
 <p align="justify">
 I am passionate about working on challenging projects and contributing to solve real world problems. 
 I enjoy working on control, sensor fusion and perception related applications. 
-In the past, I have worked on numerous interesting projects, including autonomous arial and ground vehicles. 
+In the past, I have worked as a robotics engineer for drone automation company along with numerous interesting projects on ground vehicles.
 </p>
 
 
