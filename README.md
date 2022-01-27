@@ -12,7 +12,7 @@ In the past, I have worked on numerous interesting projects, including autonomou
 
 - 🌱 Pursuing **Master's degree in robotics**
 
-- 👨‍💻 Checkout all of my projects on my webpage [hrushikeshbudhale.github.io](hrushikeshbudhale.github.io)
+- 👨‍💻 Checkout all of my projects on my webpage [hrushikeshbudhale.github.io](https://hrushikeshbudhale.github.io/)
 
 - 💬 You can ask me about **Controls, Perception, Planning or anything related to Robotics**
 
