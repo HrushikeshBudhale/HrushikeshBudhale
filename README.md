@@ -7,19 +7,6 @@ I enjoy working on control, sensor fusion and perception related applications.
 In the past, I have worked as a robotics engineer for drone automation company as well as a software developer for projects on ground vehicles.
 </p>
 
-
-- 🔭 I’m currently working as a developer for **Autonomous Delivery Robots**.
-
-- 🌱 Pursuing **Master's degree in robotics**
-
-- 👨‍💻 Checkout all of my projects on my webpage [hrushikeshbudhale.github.io](https://hrushikeshbudhale.github.io/)
-
-- 💬 You can ask me about **Controls, Perception, Planning or anything related to Robotics**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WarhPOcKQsGapvQi8oLi2xkOlT7GCLov/view?usp=sharing)
-
-- ⚡ I enjoy having deep technical discussions and cycling 🚴‍♂️.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hrushikesh-budhale-3213615a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrushikesh-budhale-3213615a" height="20" width="40" /></a>
