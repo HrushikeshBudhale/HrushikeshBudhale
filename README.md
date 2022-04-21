@@ -2,7 +2,6 @@
 <h3 align="center">Robotics engineer</h3>
 
 <p align="justify">
-I am passionate about working on challenging projects and contributing to solve real world problems. 
 I enjoy working on control, sensor fusion and perception related applications. 
 In the past, I have worked as a robotics engineer for drone automation company as well as a software developer for projects on ground vehicles.
 </p>
