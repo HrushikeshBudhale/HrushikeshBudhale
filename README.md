@@ -2,7 +2,7 @@
 <h3 align="center">Robotics engineer</h3>
 
 <p align="justify">
-I enjoy working on control, sensor fusion and perception related applications. 
+I enjoy working on controls,planning and sensor fusion related applications. 
 In the past, I have worked as a robotics engineer for drone automation company as well as a software developer for projects on ground vehicles.
 </p>
 
