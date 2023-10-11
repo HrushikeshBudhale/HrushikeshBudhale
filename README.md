@@ -2,9 +2,11 @@
 <h3 align="center">Robotics engineer</h3>
 
 <p align="justify">
-I enjoy working on controls,planning and sensor fusion related applications. 
-In the past, I have worked as a robotics engineer for drone automation company as well as a software developer for projects on ground vehicles.
+I enjoy working on RL, controls, planning and sensor fusion related applications. 
+Experience of working on multiple ground robots, autonomous drones, autonomous vehicle (AV) stack, numerous simulations and RL projects.
+I strongly believe that advancements in reinforcement learning is the only way ahead to make robots truely dexterous!  🤯
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,26 +17,25 @@ In the past, I have worked as a robotics engineer for drone automation company a
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="70" height="40"/> </a> 
-<a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://gazebosim.org/assets/logos/gazebo_vert_pos-faad8cc37ab336f850e549077ef5831e5098034532113b06328dfd70355fb8f7.svg" alt="Gazebo" width="60" height="50"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.coppeliarobotics.com/" target="_blank" rel="noreferrer"> <img src="https://niryo.com/wp-content/uploads/2019/12/CoppeliaSim.png" alt="CoppeliaSim" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="Matlab" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrushikeshbudhale&show_icons=true&locale=en&layout=compact" alt="hrushikeshbudhale" width="40%" /></p> -->
 <!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikeshbudhale&" alt="hrushikeshbudhale" width="50%"/></p>
  -->
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hrushikeshbudhale&show_icons=true&locale=en&theme=dark" alt="hrushikeshbudhale" width="50%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hrushikeshbudhale&rank_icon=github&show_icons=true&locale=en&theme=dark" alt="hrushikeshbudhale" width="50%"/>
 <div>
 <!-- <img align="right" src="https://github-profile-trophy.vercel.app/?username=hrushikeshbudhale&title=MultiLanguage,Commits" alt="hrushikeshbudhale" width="50%" /> -->
 
