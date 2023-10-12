@@ -2,9 +2,9 @@
 <h3 align="center">Robotics engineer</h3>
 
 <p align="justify">
-I enjoy working on RL, controls, planning and sensor fusion related applications. 
-Experience of working on multiple ground robots, autonomous drones, autonomous vehicle (AV) stack, numerous simulations and RL projects.
-I strongly believe that advancements in reinforcement learning is the only way ahead to make robots truely dexterous!  🤯
+I enjoy working on Reinforcment Learning, Imitation Learning, prediction, planning and controls related applications. 
+Experience of developing autonomy for multiple ground robots, drones, autonomous vehicle (AV) along with numerous simulations and RL projects.
+I strongly believe that advancements in Reinforcement Learning is the only way ahead to make robots truely dexterous!  🤯
 </p>
 Checkout some of my interesting projects on <a href="https://hrushikeshbudhale.github.io/" target=“_blank” >my webpage</a>.
 
