@@ -6,8 +6,10 @@ I enjoy working on Reinforcment Learning, Imitation Learning, prediction, planni
 Experience of developing autonomy for multiple ground robots, drones, autonomous vehicle (AV) along with numerous simulations and RL projects.
 I strongly believe that advancements in Reinforcement Learning is the only way ahead to make robots truely dexterous!  🤯
 </p>
-Checkout some of my interesting projects on <a href="https://hrushikeshbudhale.github.io/" target=“_blank” >my webpage</a>.
 
+<p>
+Checkout some interesting projects on <a href="https://hrushikeshbudhale.github.io/" target=“_blank” >my webpage</a>.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,10 +35,9 @@ Checkout some of my interesting projects on <a href="https://hrushikeshbudhale.g
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrushikeshbudhale&show_icons=true&locale=en&layout=compact" alt="hrushikeshbudhale" width="40%" /></p> -->
-<!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikeshbudhale&" alt="hrushikeshbudhale" width="50%"/></p>
- -->
+<!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikeshbudhale&" alt="hrushikeshbudhale" width="50%"/></p> -->
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hrushikeshbudhale&rank_icon=github&show_icons=true&locale=en&theme=dark" alt="hrushikeshbudhale" width="50%"/>
 <div>
-<!-- <img align="right" src="https://github-profile-trophy.vercel.app/?username=hrushikeshbudhale&title=MultiLanguage,Commits" alt="hrushikeshbudhale" width="50%" /> -->
 
+<i>“If you are working on something that you care about, you don’t have to be pushed. The vision pulls you.” — Steve Jobs </i>
