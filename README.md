@@ -2,11 +2,11 @@
 <h3 align="center">Machine Learning Engineer</h3>
 
 <p align="justify">
-I work on DL, RL, NeRfs and challenging problems in robotics and 3D. 
+I work on DL, RL, NeRfs and challenging problems in Robotics and 3D. 
 I have experience developing autonomy for multiple ground robots, drones, and autonomous vehicles (AVs).
 In addition, I have worked on numerous simulation and reinforcement learning projects.
 
-I believe advancement in simulations and RL is the key to making robots truly dexterous! Best time to be alive!
+I believe advancement in simulations and RL is the key to making robots truly dexterous!
 </p>
 
 <p>
