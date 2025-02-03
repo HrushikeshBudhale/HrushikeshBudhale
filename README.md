@@ -33,4 +33,4 @@ Checkout <a href="https://hrushikeshbudhale.github.io/" target=“_blank” >my 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hrushikeshbudhale&rank_icon=github&show_icons=true&locale=en&theme=dark" alt="hrushikeshbudhale" width="50%"/>
 <div>
 <br><br><br>
-<i>Born too late to witness the dawn of computing, too early to see the full rise of AI, but just in time to be the Engineer shaping it ✨</i>
+<i>Born too late to witness the dawn of computing, too early to see the full rise of AI, but just in time to contribute in shaping it ✨</i>
