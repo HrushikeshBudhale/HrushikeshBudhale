@@ -2,11 +2,11 @@
 <h3 align="center">Machine Learning Engineer</h3>
 
 <p align="justify">
-I work on VLMs, RL, NeRfs and challenging problems in Robotics and 3D. 
+I work on VLMs, RL, NeRFs and challenging problems in Robotics and 3D. 
 I have experience developing autonomy for multiple ground robots, drones, and autonomous vehicles (AVs).
 In addition, I have worked on numerous simulation and reinforcement learning projects.
 
-Strong believer of a thought that revolution in robotics/phycical intelligence is going to be >10x larger than current LLM based agentic one that's already disrupting industries. And it's not even a decade away.
+Strong believer of a thought that revolution in robotics/physical intelligence is going to be >10x larger than current LLM based agentic one that's already disrupting industries. And it's not even a decade away.
 
 <i>Advancements in simulation and RL is the key to making robots truly dexterous!</i>
 </p>
