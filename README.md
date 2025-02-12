@@ -1,14 +1,9 @@
 <h1 align="center">Hi, I'm Hrushikesh</h1>
-<h3 align="center">Machine Learning Engineer</h3>
 
 <p align="justify">
 I work on VLMs, RL, NeRFs and challenging problems in Robotics and 3D. 
-I have experience developing autonomy for multiple ground robots, drones, and autonomous vehicles (AVs).
-In addition, I have worked on numerous simulation and reinforcement learning projects.
 
 Strong believer of a thought that revolution in robotics/physical intelligence is going to be >10x larger than current LLM based agentic one that's already disrupting industries. And it's not even a decade away.
-
-<i>Advancements in simulation and RL is the key to making robots truly dexterous!</i>
 </p>
 
 <p>
@@ -33,4 +28,4 @@ Checkout <a href="https://hrushikeshbudhale.github.io/" target=“_blank” >my 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hrushikeshbudhale&rank_icon=github&show_icons=true&locale=en&theme=dark" alt="hrushikeshbudhale" width="50%"/>
 <div>
 <br><br><br>
-<i>Born too late to witness the dawn of computing, too early to see the full rise of AI, but just in time to contribute in shaping it ✨</i>
+<i>Born too late to witness the dawn of computing, too early to see the full rise of AI, but just in time to "Selet all squares with fire-hydrants"</i>
