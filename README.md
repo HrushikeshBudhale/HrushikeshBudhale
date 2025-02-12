@@ -23,6 +23,14 @@ Checkout <a href="https://hrushikeshbudhale.github.io/" target=“_blank” >my 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="70" height="40"/> </a> 
 </p>
+
+Recent Work:
+[NGP_lenticular_recon](https://github.com/HrushikeshBudhale/NGP_lenticular_recon),
+[NGP_from_scratch](https://github.com/HrushikeshBudhale/NGP_from_scratch),
+[NeRF_from_scratch](https://github.com/HrushikeshBudhale/NeRF_from_scratch),
+[AlphaZero](https://github.com/HrushikeshBudhale/Alpha_Zero),
+[TSDF_Fusion](https://github.com/HrushikeshBudhale/TSDF_Fusion)
+
 <br><br>
 <div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hrushikeshbudhale&rank_icon=github&show_icons=true&locale=en&theme=dark" alt="hrushikeshbudhale" width="50%"/>
