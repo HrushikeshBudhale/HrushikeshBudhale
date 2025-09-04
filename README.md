@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hrushikesh</h1>
 
 <p align="justify">
-I work on VLMs, RL, NeRFs and challenging problems in Robotics and 3D. 
+I work on VLMs, RL, NeRFs and challenging problems in AI, Robotics and 3D. 
 
 Strong believer of a thought that revolution in robotics/physical intelligence is going to be >10x larger than current LLM based agentic one that's already disrupting industries. And it's not even a decade away.
 </p>
@@ -36,4 +36,4 @@ Recent Work:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hrushikeshbudhale&rank_icon=github&show_icons=true&locale=en&theme=dark" alt="hrushikeshbudhale" width="50%"/>
 <div>
 <br><br><br>
-<i>Born too late to witness the dawn of computing, too early to see the full rise of AI, but just in time to "Selet all squares with fire-hydrants"</i>
+<i>Born too late to witness the dawn of computing, too early to see the full rise of AI, but just in time to "Select all squares with fire-hydrants"</i>
